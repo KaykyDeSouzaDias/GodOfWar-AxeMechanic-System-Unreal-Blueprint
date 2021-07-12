@@ -1,6 +1,9 @@
 # The Project
 
 This project is a God of War axe mechanic system made with Unreal Engine blueprint, with an axe that can be thrown, and called back during the air or when is fixed on the wall.
+# Download now the final result of the project.
+A playable form of the project for you to test it and enjoy it! \
+Let's go: https://drive.google.com/file/d/1BkofqbtocT5YboR9fgCHvrDBNJhJpVKJ/view?usp=sharing
 
 ![](https://github.com/KaykyDeSouzaDias/GodOfWar-AxeMechanic-System-Unreal-Blueprint/blob/main/Imgs%20%26%20GIFs/GameplayGIF.gif)
 
